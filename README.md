@@ -1,2 +1,4 @@
-# datasciencecoursera
-This is a repository created to pass the Coursera Datascience Specialization
+# datascience
+This is a repository created to pass the Datascience Specialization
+
+//rest is history
